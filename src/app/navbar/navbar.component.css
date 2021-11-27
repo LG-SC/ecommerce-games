@@ -1,0 +1,48 @@
+ul {
+    list-style: none;
+    margin: 0px;
+    padding: 10px;
+}
+
+li {
+    height: 68px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 0px;
+    padding-left: 0px;
+    /*background-color: rgba(0, 0, 0, 0.0)*/
+}
+
+li:hover {
+    color: burlywood;
+    background-color: #36393f;
+    border-radius: 10px;
+}
+
+li p {
+    padding: 10px;;
+}
+
+.menu-routes {
+    display: inline-flex;
+    flex-direction: row;
+    width: 100%;
+    background-color: #202225;
+}
+
+.produtos {
+    width: 90%;
+    background-color: #36393f;
+}
+
+.menu {
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    width: 10%;
+    height: 100vh;
+}

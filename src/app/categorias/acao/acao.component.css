@@ -1,0 +1,57 @@
+
+.bcrumb {
+    padding: 20px;
+}
+
+.card {
+    color: black;
+    background-color: white;
+    margin: 20px;
+    margin-top: 40px;
+    width: 200px;
+    display: inline-flex;
+    align-items: center;
+    flex-direction: column;
+    height: fit-content;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius:20px;
+    padding: 0px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    transition: all 1s;
+}
+
+.card:hover {
+    width: 220px;
+    margin: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+.card:hover #Tit {
+    font-size: 25px;
+}
+.card:hover #Desc {
+    font-size: 20px;
+}
+
+.card img {
+    max-height: 80%;
+    width: 100%;
+    padding: 0px;
+}
+
+#Tit {
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 0px;
+    transition: all 1s;
+}
+
+#Desc {
+    text-align: center;
+    font-style: italic;
+    padding: 0px;
+    transition: all 1s;
+}
