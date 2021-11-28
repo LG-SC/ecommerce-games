@@ -20,7 +20,7 @@ export class MOBAComponent implements OnInit {
     }, 
     {
       Imagem : "../assets/HOS.jpg",
-      Desc : "",
+      Desc : "MOBA da Blizzard",
       Titulo: "Heroes of the Storm"
     }, 
     {
@@ -29,34 +29,34 @@ export class MOBAComponent implements OnInit {
       Titulo: "SMITE"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/VG.jpg",
+      Desc : "Moba com graficos lindos",
+      Titulo: "Vain Glory"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/AV.jpg",
+      Desc : "Moba com crossplay mobile",
+      Titulo: "Arena of Valor"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/AN.jpg",
+      Desc : "Moba 2d, frenético",
+      Titulo: "AwesomeNauts"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/DOTA1.jpg",
+      Desc : "Precussor à DOTA 2",
+      Titulo: "DOTA"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/DEM.png",
+      Desc : "Gigantes.",
+      Titulo: "Demigod"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/HN.jpg",
+      Desc : "MOBA de gráficos incríveis",
+      Titulo: "Heroes of Newerth"
     }
   ]
   constructor() { }

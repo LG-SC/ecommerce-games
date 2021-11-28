@@ -17,7 +17,7 @@ const routes: Routes = [
   {path: "categorias/fps", component:FPSComponent},
   {path: "categorias/luta", component:LutaComponent},
   {path: "categorias/moba", component:MOBAComponent},
-  {path: "categorias/platformer", component:PlaformerComponent},
+  {path: "categorias/plaformer", component:PlaformerComponent},
   {path: "categorias/puzzle", component:PuzzleComponent},
   {path: "categorias/ritmo", component:RitmoComponent},
   {path: "categorias/rpg", component:RPGComponent},
