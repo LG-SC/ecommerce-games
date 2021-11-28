@@ -1,0 +1,67 @@
+
+.bcrumb {
+    padding: 20px;
+}
+
+.card {
+    color: black;
+    background-color: white;
+    margin: 20px;
+    margin-top: 40px;
+    width: 200px;
+    display: inline-flex;
+    align-items: center;
+    flex-direction: column;
+    height: fit-content;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius:20px;
+    padding: 0px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    transition: all 1s;
+    overflow: hidden;
+    position: static;
+}
+
+.card img {
+    height: 300px;
+    width: 100%;
+    padding: 0px;
+    transition: height 1s;
+}
+
+.card:hover {
+    width: 220px;
+    margin: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 0px;
+}
+
+.card:hover #Tit {
+    font-size: 21px;
+}
+.card:hover #Desc {
+    font-size: 17px;
+}
+
+.card:hover img {
+    height: 340px;
+}
+
+#Tit {
+    font-weight: bolder;
+    font-size: 19px;
+    padding: 0px;
+    transition: all 1s;
+    margin-bottom: 5px;
+}
+
+#Desc {
+    text-align: center;
+    font-style: italic;
+    font-size: 15px;
+    padding: 0px;
+    margin-bottom: 2px;
+    transition: all 1s;
+}

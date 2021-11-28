@@ -23,6 +23,11 @@ li p {
     padding: 10px;;
 }
 
+a {
+    text-decoration: none;
+    color: white;
+}
+
 .menu-routes {
     display: inline-flex;
     flex-direction: row;

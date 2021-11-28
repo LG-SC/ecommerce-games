@@ -1,1 +1,17 @@
-<p>rpg works!</p>
+<div class="bcrumb">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="#">Pagina Principal</a></li>
+          <li class="breadcrumb-item active" aria-current="page" style="color: white;">RPG</li>
+        </ol>
+    </nav>
+</div>
+
+<div class="Container justify-content-around">
+  <div class="card" *ngFor = "let jogo of Jogos">
+    <img [src]="jogo.Imagem" alt="Imagem do jogo">
+    <p id="Tit">{{jogo.Titulo}}</p>
+    <p id="Desc">{{jogo.Desc}}</p>
+  </div>
+</div>
+  

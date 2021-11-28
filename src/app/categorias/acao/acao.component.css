@@ -19,6 +19,15 @@
     border-top-left-radius: 0px;
     border-top-right-radius: 0px;
     transition: all 1s;
+    overflow: hidden;
+    position: static;
+}
+
+.card img {
+    height: 300px;
+    width: 100%;
+    padding: 0px;
+    transition: height 1s;
 }
 
 .card:hover {
@@ -26,32 +35,33 @@
     margin: 0px;
     margin-left: 10px;
     margin-right: 10px;
-    margin-top: 5px;
+    margin-top: 0px;
 }
 
 .card:hover #Tit {
-    font-size: 25px;
+    font-size: 21px;
 }
 .card:hover #Desc {
-    font-size: 20px;
+    font-size: 17px;
 }
 
-.card img {
-    max-height: 80%;
-    width: 100%;
-    padding: 0px;
+.card:hover img {
+    height: 340px;
 }
 
 #Tit {
     font-weight: bolder;
-    font-size: 20px;
+    font-size: 19px;
     padding: 0px;
     transition: all 1s;
+    margin-bottom: 5px;
 }
 
 #Desc {
     text-align: center;
     font-style: italic;
+    font-size: 15px;
     padding: 0px;
+    margin-bottom: 2px;
     transition: all 1s;
 }
