@@ -9,54 +9,54 @@ export class RPGComponent implements OnInit {
 
   Jogos: any = [
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/LS.jpg",
+      Desc : "Salve a ultima garota",
+      Titulo: "Lisa: The Painful RPG"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/YN.png",
+      Desc : "Explore seus sonhos",
+      Titulo: "Yume Nikki"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/WD.jpg",
+      Desc : "Proteja o Oceano",
+      Titulo: "Wadanohara"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/P4.jpg",
+      Desc : "Salve sua cidade",
+      Titulo: "Persona 4"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/P5.jpg",
+      Desc : "Roube o coração de todos",
+      Titulo: "Persona 5"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/OM.jpg",
+      Desc : "Relembre seu passado",
+      Titulo: "OMORI"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/HY.jpg",
+      Desc : "RPG surreal",
+      Titulo: "Hylics"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/UT.jpg",
+      Desc : "Escape do Underground",
+      Titulo: "Undertale"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/DRU.png",
+      Desc : "Salve ambos mundos",
+      Titulo: "Deltarune"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/DD.jpg",
+      Desc : "Sobreviva",
+      Titulo: "Darkest Dungeon"
     }
   ]
   constructor() { }

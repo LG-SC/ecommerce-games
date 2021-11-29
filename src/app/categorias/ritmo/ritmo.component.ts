@@ -9,54 +9,54 @@ export class RitmoComponent implements OnInit {
 
   Jogos: any = [
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/COND.png",
+      Desc : "Roguelike com ritmo",
+      Titulo: "Crypt of Necrodancer"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/JD.jpg",
+      Desc : "Dance com a musica",
+      Titulo: "Just Dance 2022"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/RD.jpg",
+      Desc : "Salve pacientes em ritmo",
+      Titulo: "Rythm Doctor"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/NB.jpg",
+      Desc : "Atravese os obstáculos",
+      Titulo: "Neon Beats"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/BH.jpg",
+      Desc : "Sobreviva com a musica",
+      Titulo: "Beat Hazard"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/EH.jpg",
+      Desc : "Aventura musical surreal",
+      Titulo: "Everhood"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/BS.jpg",
+      Desc : "Siga o ritmo em VR",
+      Titulo: "Beat Saber"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/BB.jpg",
+      Desc : "Ataque ao ritmo",
+      Titulo: "Beat Blast"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/SL.jpg",
+      Desc : "Bullet hell com ritmo",
+      Titulo: "Super Ledgehop DL"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/PD.jpg",
+      Desc : "Dance com Vocaloids",
+      Titulo: "Project Diva"
     }
   ]
   constructor() { }

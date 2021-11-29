@@ -9,54 +9,54 @@ export class VisualNovelComponent implements OnInit {
 
   Jogos: any = [
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/DR1.jpg",
+      Desc : "O jogo de matança começa",
+      Titulo: "Danganronpa 1"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/DR2.jpg",
+      Desc : "Novas vitimas aparecem",
+      Titulo: "Danganronpa 2"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/DR3.jpg",
+      Desc : "Desencoberte mentiras",
+      Titulo: "Danganronpa V3"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/FSN.jpg",
+      Desc : "Venca a guerra do graal",
+      Titulo: "Fate Stay/Night"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/FHA.jpg",
+      Desc : "Escape do loop de 4 dias",
+      Titulo: "Fate Hollow/Ataraxia"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/TSU.jpg",
+      Desc : "Derrote o vampiro solto",
+      Titulo: "Tsukihime"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/TSU2.jpg",
+      Desc : "Remake da história original",
+      Titulo: "Tsukihime Remake"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/KT.png",
+      Desc : "Continuação de Tsukihime",
+      Titulo: "Kagetsu Tohya"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/DDLC.jpg",
+      Desc : "Viva no clube de literatura",
+      Titulo: "DD Literature Club"
     }, 
     {
-      Imagem : "../assets/Celeste.png",
-      Desc : "Also try: Estrogen",
-      Titulo: "Celeste"
+      Imagem : "../assets/TTO.jpg",
+      Desc : "Uma historia de amor escolar",
+      Titulo: "Totono"
     }
   ]
   constructor() { }

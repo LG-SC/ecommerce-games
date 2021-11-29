@@ -35,7 +35,7 @@ export class PuzzleComponent implements OnInit {
     }, 
     {
       Imagem : "../assets/COS.jpg",
-      Desc : "Mergulhe nessa aventura surreal",
+      Desc : "Mergulhe nessa aventura",
       Titulo: "Call of the Sea"
     }, 
     {
